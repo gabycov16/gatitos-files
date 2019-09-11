@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gatitos-files/static/css/main.bf8042ae.chunk.css",
+    "main.js": "/gatitos-files/static/js/main.073be3af.chunk.js",
+    "main.js.map": "/gatitos-files/static/js/main.073be3af.chunk.js.map",
+    "runtime~main.js": "/gatitos-files/static/js/runtime~main.c09a1f2f.js",
+    "runtime~main.js.map": "/gatitos-files/static/js/runtime~main.c09a1f2f.js.map",
+    "static/js/2.4ea1ec15.chunk.js": "/gatitos-files/static/js/2.4ea1ec15.chunk.js",
+    "static/js/2.4ea1ec15.chunk.js.map": "/gatitos-files/static/js/2.4ea1ec15.chunk.js.map",
+    "index.html": "/gatitos-files/index.html",
+    "precache-manifest.0b4752231e798ed8683592284078f904.js": "/gatitos-files/precache-manifest.0b4752231e798ed8683592284078f904.js",
+    "service-worker.js": "/gatitos-files/service-worker.js",
+    "static/css/main.bf8042ae.chunk.css.map": "/gatitos-files/static/css/main.bf8042ae.chunk.css.map"
+  }
+}
